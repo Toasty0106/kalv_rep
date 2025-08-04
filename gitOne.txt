@@ -1,0 +1,5 @@
+=== first gitthing ===
+name == Chris
+batch == 2025
+squad == 112
+program == SPE (Software Product Engineering)
